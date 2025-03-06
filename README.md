@@ -1,4 +1,4 @@
- Blockchain-Based Academic Credentials Issuance System
+Blockchain-Based Academic Credentials Issuance System
 
 ## Overview
 This project is a blockchain-powered academic credentials issuance platform designed to simplify and secure the process of certificate issuance and verification. Built using Ethers.js for blockchain integration and Twilio for OTP-based authentication, the system allows multiple universities to issue tamper-proof digital certificates to students, who can download them securely.
@@ -28,6 +28,9 @@ This project is a blockchain-powered academic credentials issuance platform desi
 2. Install dependencies
 3. Configure environment variables (Twilio API keys, Blockchain - ethers.js, etc.).
 4. Deploy the smart contracts to Ethereum.
-5. Start the backend and frontend servers:
+5. Start the backend and frontend servers.
+
+For inquiries or collaborations, please contact ashrithsambaraju@gmail.com
+
 
 
