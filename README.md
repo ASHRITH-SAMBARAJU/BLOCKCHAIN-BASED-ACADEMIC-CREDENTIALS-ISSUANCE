@@ -14,7 +14,7 @@ This project is a blockchain-powered academic credentials issuance platform desi
 - Blockchain: Ethereum (Smart Contracts)
 - Backend:Node.js, Ethers.js
 - Frontend: React.js 
-- Authentication:** Twilio (OTP verification)
+- Authentication: Twilio (OTP verification)
 
 ## How It Works
 1. Universities register on the platform and issue certificates using blockchain transactions.
