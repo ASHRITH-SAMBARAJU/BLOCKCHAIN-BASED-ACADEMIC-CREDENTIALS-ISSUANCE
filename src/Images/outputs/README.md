@@ -2,7 +2,8 @@
 
 ## 🧠 Overview
 
-This project is a blockchain-powered academic credentials issuance platform designed to simplify and secure the process of certificate issuance and verification. Built using Ethers.js for blockchain integration and Twilio for OTP-based authentication, the system allows multiple universities to issue tamper-proof digital certificates to students, who can download them securely.
+This project is a blockchain-powered academic credentials issuance platform designed to simplify and secure the process of certificate issuance and verification. Built using Ethers.js for blockchain integration and Twilio for OTP-based authentication, the system allows multiple universities to issue tamper-proof digital certificates to students, who can download them securely
+
 ---
 
 ## 🚀 Key Features
