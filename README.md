@@ -30,7 +30,7 @@ This project is a blockchain-powered academic credentials issuance platform desi
 
 ---
 
-## 📸 UI Screenshots
+## 📸 Output Screenshots
 
 ### Login & Registration  
 
