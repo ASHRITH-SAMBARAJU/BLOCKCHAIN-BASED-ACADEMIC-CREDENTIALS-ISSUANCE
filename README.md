@@ -30,35 +30,52 @@ This project is a blockchain-powered academic credentials issuance platform desi
 
 ---
 
-## Outputs
+## 📸 UI Screenshots
 
-### Homepage  
-![Homepage](src/Images/outputs/1-Homepage.png)
+### 🔷 Login & Registration  
+- ![Login/Register](src/Images/outputs/2-Login-Register-Page.png)  
+- ![Student Login](src/Images/outputs/4-Student-Login.png)
 
-### Student Registration  
-![Student Registration](src/Images/outputs/3-Student-Registration.png)
+---
 
-### Student Dashboard  
-![Student Dashboard](src/Images/outputs/5-Student-Dashboard.png)
+### 🧑‍🎓 Student Flow  
+- **Homepage**  
+  ![Homepage](src/Images/outputs/1-Homepage.png)
 
-### University Registration  
-![University Registration](src/Images/outputs/5-University-Registration.png)
+- **Student Registration**  
+  ![Student Registration](src/Images/outputs/3-Student-Registration.png)
 
-### University Login  
-![University Login](src/Images/outputs/6-University-Login.png)
+- **Student Dashboard**  
+  ![Student Dashboard](src/Images/outputs/5-Student-Dashboard.png)
 
-### University Dashboards  
-![University Dashboard 1](src/Images/outputs/7-University-Dashboard-1.png)  
-![University Dashboard 2](src/Images/outputs/8-University-Dashboard-2.png)  
-![University Dashboard 3](src/Images/outputs/9-University-Dashboard-3.png)
+- **Sample Student Data**  
+  ![Sample List](src/Images/outputs/12-Sample-Students-List.png)
 
-### Verifier Flow  
-![Verifier Registration](src/Images/outputs/9-Verifier-Registration.png)  
-![Verifier Login](src/Images/outputs/10-Verifier-Login-Page.png)  
-![Verifier Dashboard](src/Images/outputs/11-Verifier-Dashboard.png)
+---
 
-### Sample Student Data  
-![Sample List](src/Images/outputs/12-Sample-Students-List.png)
+### 🏛️ University Flow  
+- **University Registration**  
+  ![University Registration](src/Images/outputs/5-University-Registration.png)
+
+- **University Login**  
+  ![University Login](src/Images/outputs/6-University-Login.png)
+
+- **University Dashboards**  
+  ![University Dashboard 1](src/Images/outputs/7-University-Dashboard-1.png)  
+  ![University Dashboard 2](src/Images/outputs/8-University-Dashboard-2.png)  
+  ![University Dashboard 3](src/Images/outputs/9-University-Dashboard-3.png)
+
+---
+
+### 🧾 Verifier Flow  
+- **Verifier Registration**  
+  ![Verifier Registration](src/Images/outputs/9-Verifier-Registration.png)
+
+- **Verifier Login**  
+  ![Verifier Login](src/Images/outputs/10-Verifier-Login-Page.png)
+
+- **Verifier Dashboard**  
+  ![Verifier Dashboard](src/Images/outputs/11-Verifier-Dashboard.png)
 
 ---
 
@@ -69,6 +86,11 @@ This project is a blockchain-powered academic credentials issuance platform desi
 ```bash
 cd backend
 npm install
-# Setup .env with:
-# TWILIO_SID, TWILIO_AUTH_TOKEN, TWILIO_PHONE_NUMBER, PORT
+
+# Setup .env file with:
+# TWILIO_SID=your_twilio_sid
+# TWILIO_AUTH_TOKEN=your_twilio_token
+# TWILIO_PHONE_NUMBER=your_twilio_phone
+# PORT=your_port
+
 node server.js
