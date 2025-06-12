@@ -30,7 +30,7 @@ This project is a blockchain-powered academic credentials issuance platform desi
 
 ---
 
-## 📸 Output Screenshots
+## Output Screenshots
 
 ### Login & Registration  
 
@@ -112,7 +112,7 @@ dotenv -e .env -- node server.js
 
 > This starts the backend on port `5176`.
 
-#### 📄 Sample `.env` File (backend/.env)
+#### Sample `.env` File (backend/.env)
 
 ```
 TWILIO_SID=your_twilio_sid
