@@ -97,9 +97,6 @@ This project is a blockchain-powered academic credentials issuance platform desi
 
 ## How to Run the Project
 
-### Backend Setup
-## How to Run the Project
-
 ### Prerequisites
 - Node.js and npm installed
 - `dotenv` installed globally (`npm install -g dotenv-cli`) or use with `npx`
