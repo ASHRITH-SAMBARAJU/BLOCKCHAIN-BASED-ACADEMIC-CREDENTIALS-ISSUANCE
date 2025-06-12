@@ -34,20 +34,21 @@ This project is a blockchain-powered academic credentials issuance platform desi
 
 ### Login & Registration  
 
-- ![Login/Register](src/Images/outputs/2-Login-Register-Page.png)
-- 
-- ![Homepage](src/Images/outputs/1-Homepage.png)
+ ![Login/Register](src/Images/outputs/2-Login-Register-Page.png)
+ 
+ ![Homepage](src/Images/outputs/1-Homepage.png)
 
 ---
 
 ### Student Flow  
-- **Homepage**
-  
-  ![Student Login](src/Images/outputs/4-Student-Login.png)
 
 - **Student Registration**
   
   ![Student Registration](src/Images/outputs/3-Student-Registration.png)
+  
+- **Student Login**
+  
+  ![Student Login](src/Images/outputs/4-Student-Login.png)
 
 - **Student Dashboard**
   
