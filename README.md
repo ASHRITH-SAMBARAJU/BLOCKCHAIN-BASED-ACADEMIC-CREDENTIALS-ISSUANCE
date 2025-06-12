@@ -133,8 +133,8 @@ npm run dev
 ## Contact
 
 **Ashrith Sambaraju**  
-📧 Email: ashrithsambaraju@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/ashrith-sambaraju](https://www.linkedin.com/in/ashrith-sambaraju)
+  Email: ashrithsambaraju@gmail.com  
+  LinkedIn: [linkedin.com/in/ashrith-sambaraju](https://www.linkedin.com/in/ashrith-sambaraju)
 
 
 
