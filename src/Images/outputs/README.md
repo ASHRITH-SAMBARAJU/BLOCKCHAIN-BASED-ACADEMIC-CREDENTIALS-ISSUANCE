@@ -33,32 +33,32 @@ This project is a blockchain-powered academic credentials issuance platform desi
 ## UI Screenshots
 
 ### Homepage  
-![Homepage](./src/Images/outputs/1-Homepage.png)
+![Homepage](src/Images/outputs/1-Homepage.png)
 
 ### Student Registration  
-![Student Registration](./src/Images/outputs/3-Student-Registration.png)
+![Student Registration](src/Images/outputs/3-Student-Registration.png)
 
 ### Student Dashboard  
-![Student Dashboard](./src/Images/outputs/5-Student-Dashboard.png)
+![Student Dashboard](src/Images/outputs/5-Student-Dashboard.png)
 
 ### University Registration  
-![University Registration](./src/Images/outputs/5-University-Registration.png)
+![University Registration](src/Images/outputs/5-University-Registration.png)
 
 ### University Login  
-![University Login](./src/Images/outputs/6-University-Login.png)
+![University Login](src/Images/outputs/6-University-Login.png)
 
 ### University Dashboards  
-![University Dashboard 1](./src/Images/outputs/7-University-Dashboard-1.png)  
-![University Dashboard 2](./src/Images/outputs/8-University-Dashboard-2.png)  
-![University Dashboard 3](./src/Images/outputs/9-University-Dashboard-3.png)
+![University Dashboard 1](src/Images/outputs/7-University-Dashboard-1.png)  
+![University Dashboard 2](src/Images/outputs/8-University-Dashboard-2.png)  
+![University Dashboard 3](src/Images/outputs/9-University-Dashboard-3.png)
 
 ### Verifier Flow  
-![Verifier Registration](./src/Images/outputs/9-Verifier-Registration.png)  
-![Verifier Login](./src/Images/outputs/10-Verifier-Login-Page.png)  
-![Verifier Dashboard](./src/Images/outputs/11-Verifier-Dashboard.png)
+![Verifier Registration](src/Images/outputs/9-Verifier-Registration.png)  
+![Verifier Login](src/Images/outputs/10-Verifier-Login-Page.png)  
+![Verifier Dashboard](src/Images/outputs/11-Verifier-Dashboard.png)
 
 ### Sample Student Data  
-![Sample List](./src/Images/outputs/12-Sample-Students-List.png)
+![Sample List](src/Images/outputs/12-Sample-Students-List.png)
 
 ---
 
