@@ -117,10 +117,9 @@ dotenv -e .env -- node server.js
 
 ---
 
-### Frontend Setup
+### Frontend Setup / Root Terminal
 
 ```bash
-cd frontend
 npm run dev
 ```
 
