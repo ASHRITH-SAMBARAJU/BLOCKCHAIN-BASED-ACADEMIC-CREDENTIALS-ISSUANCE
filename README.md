@@ -98,16 +98,34 @@ This project is a blockchain-powered academic credentials issuance platform desi
 ## How to Run the Project
 
 ### Backend Setup
+## How to Run the Project
+
+### Prerequisites
+- Node.js and npm installed
+- `dotenv` installed globally (or use `npx`)
+
+---
+
+### Backend Setup
 
 ```bash
 cd backend
-npm install
-
-# Setup .env file with:
-# TWILIO_SID=your_twilio_sid
-# TWILIO_AUTH_TOKEN=your_twilio_token
-# TWILIO_PHONE_NUMBER=your_twilio_phone
-# PORT=your_port
+dotenv -e .env -- node server.js
 ```
+
+> This runs the backend on port `5176`.
+
+---
+
+### Frontend Setup
+
+```bash
+cd frontend
+npm run dev
+```
+
+> This runs the frontend on port `5174`.
+
+
 
 
