@@ -73,8 +73,6 @@ This project is a blockchain-powered academic credentials issuance platform desi
   
   ![University Dashboard 2](src/Images/outputs/8-University-Dashboard-2.png)
   
-  ![University Dashboard 1](src/Images/outputs/7-University-Dashboard-1.png)
-  
   ![University Dashboard 3](src/Images/outputs/9-University-Dashboard-3.png)
 
 ---
