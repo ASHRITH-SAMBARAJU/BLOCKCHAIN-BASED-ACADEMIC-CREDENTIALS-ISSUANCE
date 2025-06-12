@@ -130,7 +130,7 @@ npm run dev
 
 > This starts the frontend on port `5174`.
 
-## 📬 Contact
+## Contact
 
 **Ashrith Sambaraju**  
 📧 Email: ashrithsambaraju@gmail.com  
